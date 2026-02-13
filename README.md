@@ -6,6 +6,6 @@ Wooo! Double Wooo!
 - My stuff
 ## Things I Despise
 - Man, I dunno...
-- (https://www.youtube.com/watch?v=dQw4w9WgXcQ|This... You have been warned...)
+- [This... You have been warned...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 And who really does?
