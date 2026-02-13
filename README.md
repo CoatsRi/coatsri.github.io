@@ -1,2 +1,2 @@
-Wooo!\n
+Wooo!/n
 Double Wooo!
