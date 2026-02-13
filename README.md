@@ -1,2 +1,1 @@
-Wooo!/n
-Double Wooo!
+Wooo! Double Wooo!
